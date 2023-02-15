@@ -12,7 +12,6 @@ tags: ["astro", "blogging", "learning"]
 
 # My First Blog Post
 
-Published on: 2023-01-23
 
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 
