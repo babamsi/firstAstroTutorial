@@ -1,8 +1,9 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: 'My first Blot Post'
 pubDate: 2023-01-23
 description: 'This is the first post of my new Astro blog'
-author: 'Bamsi'
+author: 'Bamsiii'
 image: 
     url: 'https://astro.build/assets/blog/astro-1-release-update/cover.jpeg' 
     alt: 'THE ASTRO logo'
